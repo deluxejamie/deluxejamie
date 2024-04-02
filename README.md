@@ -9,6 +9,3 @@ I'm an 18 year-old computer science and mathematics enthusiast, with most of my 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-<h3>📬 Reach me</h3>
-[Email](mailto:from-git@jaiii.me)
-[Discord](https://discord.gg/developer)
