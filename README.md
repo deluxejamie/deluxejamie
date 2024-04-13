@@ -1,5 +1,5 @@
 ### Hello, I'm Jamie 🇬🇧</h3>
-I'm an 18 year-old computer science and mathematics enthusiast, with most of my experience consisting of Node.js applications, with some experience with Python and React. 
+I'm an 18 year-old computer science and mathematics enthusiast, with most of my experience consisting of Node.js applications, with some experience using Python and React. 
 ### Technologies I Use</h3>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F90)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=node.js&logoColor=F90)
