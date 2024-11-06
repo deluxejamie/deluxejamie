@@ -12,4 +12,4 @@ I'm an 18 year-old computer science and mathematics enthusiast studying CS under
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 
 ### My Projects</h3>
-- [Elyxir • Premium Discord Bot built with NodeJS and MongoDB](https://store.elyxir.dev)
+- [💎 Elyxir • Premium Discord Bot built with NodeJS and MongoDB](https://store.elyxir.dev)
