@@ -1,5 +1,6 @@
 ### Hello, I'm Jamie 🇬🇧</h3>
-I'm an 18 year-old computer science and mathematics enthusiast studying CS undergrad @ University of Warwick, with most of my experience consisting of Node.js applications, and some experience using Python, React and Java. Currently learning Haskell and TypeScript.
+I'm an 18 year-old computer science and mathematics enthusiast, part time freelance developer and student of CS undergrad @ University of Warwick. Most of my experience consists of Node.js applications with some experience using Python, React and Java. Currently I'm exploring Haskell and TypeScript.
+
 
 ### Technologies I Use</h3>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F90&style=for-the-badge)
