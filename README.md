@@ -15,4 +15,4 @@ I'm an 18 year-old computer science and mathematics enthusiast, part time freela
 ![Latex](https://img.shields.io/badge/-Latex-000?&logo=latex&style=for-the-badge)
 
 ### My Projects</h3>
-- [💎 Elyxir • Premium Discord Bot built with NodeJS and MongoDB](https://store.elyxir.dev)
+- [💎 Elyxir • Premium Discord Bot built with NodeJS and MongoDB](https://github.com/elyxirbot/)
