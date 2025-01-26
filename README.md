@@ -1,8 +1,8 @@
 ### Hello, I'm Jamie 🇬🇧</h3>
-I'm an 18 year-old computer science and mathematics enthusiast, part time freelance developer and student of CS undergrad @ University of Warwick. Most of my experience consists of Node.js applications with some experience using Python, React and Java.
+I'm an 18 year-old computer science and mathematics enthusiast, part time freelance developer and undergrad CS student @ University of Warwick. Most of my experience consists of Node.js applications with some experience using Python, React and Java.
 
 
-### Technologies I Use</h3>
+### Technologies I Use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F90&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=node.js&logoColor=F90&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=for-the-badge)
@@ -14,5 +14,5 @@ I'm an 18 year-old computer science and mathematics enthusiast, part time freela
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&style=for-the-badge)
 ![Latex](https://img.shields.io/badge/-Latex-000?&logo=latex&style=for-the-badge)
 
-### My Projects</h3>
+### My Projects
 - [💎 Elyxir • Premium Discord Bot built with NodeJS and MongoDB](https://github.com/elyxirbot/)
