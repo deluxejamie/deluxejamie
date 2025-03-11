@@ -1,5 +1,5 @@
 ### Hello, I'm Jamie 🇬🇧</h3>
-I'm an 18 year-old computer science and mathematics enthusiast, part time freelance developer and undergrad CS student @ University of Warwick. Most of my experience consists of Node.js applications with some experience using Python, React and Java.
+I'm a 19 year-old computer science and mathematics enthusiast, part time freelance developer and undergrad CS student @ University of Warwick. Most of my experience consists of Node.js applications with some experience using Python, React and Java.
 
 
 ### Technologies I Use
